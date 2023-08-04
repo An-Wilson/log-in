@@ -6,6 +6,7 @@
 
 ### 功能
 - 輸入 email 及密碼，若都正確則進入歡迎介面
+- 成功登入後可查看個人資料
 
 ### 開始使用
 1. 需有安裝 Node.js 以及 npm
@@ -34,3 +35,4 @@ ctrl + c
 - Node.js 18.16.0
 - Express 4.18.2
 - Express-Handlebars 4.0.2
+- cookie-parser 1.4.6
