@@ -59,3 +59,12 @@ button {
 h1 {
   font-size: 50px;
 }
+
+a {
+  padding: 10px;
+  font-size: 2rem;
+  text-decoration: none;
+  color: rgb(34, 77, 114);
+  border: 5px solid rgb(34, 77, 114);
+  border-radius: 10px;
+}
